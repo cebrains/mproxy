@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/mainflux/mainflux/logger"
-	"github.com/mainflux/mainflux/mqtt"
-	"github.com/mainflux/mproxy/pkg/session"
+	"github.com/cebrains/cebtc/logger"
+	"github.com/cebrains/cebtc/mqtt"
+	"github.com/cebrains/mproxy/pkg/session"
 )
 
 var _ mqtt.Event = (*Event)(nil)

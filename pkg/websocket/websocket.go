@@ -6,9 +6,9 @@ import (
 	"net/url"
 	"time"
 
+	"github.com/cebrains/cebtc/logger"
+	"github.com/cebrains/mproxy/pkg/session"
 	"github.com/gorilla/websocket"
-	"github.com/mainflux/mainflux/logger"
-	"github.com/mainflux/mproxy/pkg/session"
 )
 
 // New - creates new HTTP proxy

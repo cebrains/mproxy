@@ -1,4 +1,4 @@
-// Copyright (c) Mainflux
+// Copyright (c) CEBrains
 // SPDX-License-Identifier: Apache-2.0
 
 package logger

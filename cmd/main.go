@@ -8,10 +8,10 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/mainflux/mainflux/logger"
-	"github.com/mainflux/mproxy/examples/simple"
-	"github.com/mainflux/mproxy/pkg/mqtt"
-	"github.com/mainflux/mproxy/pkg/websocket"
+	"github.com/cebrains/cebtc/logger"
+	"github.com/cebrains/mproxy/examples/simple"
+	"github.com/cebrains/mproxy/pkg/mqtt"
+	"github.com/cebrains/mproxy/pkg/websocket"
 )
 
 const (

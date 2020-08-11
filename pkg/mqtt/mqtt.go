@@ -5,8 +5,8 @@ import (
 	"io"
 	"net"
 
-	"github.com/mainflux/mainflux/logger"
-	"github.com/mainflux/mproxy/pkg/session"
+	"github.com/cebrains/cebtc/logger"
+	"github.com/cebrains/mproxy/pkg/session"
 )
 
 // Proxy is main MQTT proxy struct

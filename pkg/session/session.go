@@ -3,8 +3,8 @@ package session
 import (
 	"net"
 
+	"github.com/cebrains/cebtc/logger"
 	"github.com/eclipse/paho.mqtt.golang/packets"
-	"github.com/mainflux/mainflux/logger"
 )
 
 const (
